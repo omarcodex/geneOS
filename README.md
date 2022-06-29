@@ -1,2 +1,2 @@
 # gene-circuitry
-A repository for the Int'l Gene Circuitry Project
+A repository for the Object-Oriented Gene Circuitry Project
