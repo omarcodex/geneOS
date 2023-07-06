@@ -1,0 +1,35 @@
+Cell Type Phylogeny 
+
+This is work in progress. It is used to infer regulatory inheritance. Sources include Wikipedia and various readings.
+
+zygote
+  morula
+    blastomere-embryoblast (inner)
+      amniotic sac
+      three derm layers
+    blastomere-trophoblast (outer)
+      chorionic villi
+      placenta
+      syncytiotrophoblast
+    blastocoel cavity (factors for differentiation)
+
+embryo
+  ectoderm
+    nervous system
+  mesoderm
+      heart
+      inner ear
+      muscle
+      bone
+      connective tissue
+      blood
+      blood vessels
+      cartilage
+      ribs
+      vertebrae
+      dermal
+endoderm
+      digestive system
+      respiratory system
+      liver
+      pancreas
